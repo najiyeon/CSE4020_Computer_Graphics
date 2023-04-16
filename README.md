@@ -1,2 +1,2 @@
-# Computer-Graphics
+# CSE4020_Computer_Graphics
 2023-1 HYU CSE4020
