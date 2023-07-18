@@ -3,7 +3,7 @@
 
 <br>
 
-## Project 01 : Basic OpenGL viewer
+## [Project 01 : Basic OpenGL viewer](https://github.com/najiyeon/CSE4020_Computer_Graphics/blob/main/project1/project_1.py)
 1. A **rectangular grid** with lines (not polygons) on _**xz plane**_
    -	Implemented with prepare_vao_grid(), draw_grid(), and draw_grid_array()
 
@@ -27,7 +27,7 @@
 <br>
 
 
-## Project 02 : Obj viewer & drawing a ierarchical model
+## [Project 02 : Obj viewer & drawing a ierarchical model](https://github.com/najiyeon/CSE4020_Computer_Graphics/blob/main/project2/main.py)
 
 <br>
 
