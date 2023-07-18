@@ -46,15 +46,15 @@
 
 <br>
 
-**vidoe capture of the animating hierarchical model in youtube**   
+**vidoe capture of the animating hierarchical model**   
 
-[![computer graphics project 2](https://www.youtube.com/watch?v=EUOids_3ASM/hqdefault.jpg)](https://www.youtube.com/watch?v=EUOids_3ASM)
+<img src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/1de13765-9be8-49e3-8bd5-1d5abc29a289" width="600"></img>
 
 <br>
 
 3. **Hierarchical model** : The model has a hierarchy of 3 levels, and each node has 2 child nodes. And all the child body parts move relative to the parent body parts.   
 
-<img src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/7ca6a2f4-9328-4525-b4d9-64c61fd6ec13" width="500"></img>
+<iframe width="600" src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/5be90b05-6f29-4308-a8b1-348d1c8f6ed2" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
