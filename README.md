@@ -1,2 +1,2 @@
 # CSE4020_Computer_Graphics
-2023-1 HYU CSE4020
+***Hanyang University, Computer Graphics, Spring 2023, by prof. Yoonsang Lee***
