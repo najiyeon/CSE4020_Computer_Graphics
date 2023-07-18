@@ -48,13 +48,13 @@
 
 **vidoe capture of the animating hierarchical model**   
 
-<img src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/1de13765-9be8-49e3-8bd5-1d5abc29a289" width="600"></img>
+https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/157a2d93-3c7b-4e59-bdba-611d8b3ed7aa
 
 <br>
 
 3. **Hierarchical model** : The model has a hierarchy of 3 levels, and each node has 2 child nodes. And all the child body parts move relative to the parent body parts.   
 
-<iframe width="600" src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/5be90b05-6f29-4308-a8b1-348d1c8f6ed2" frameborder="0" allowfullscreen></iframe>
+<img src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/67d24246-a958-4316-8182-b9623a7ecf8f" width="500"></img>
 
 <br>
 
