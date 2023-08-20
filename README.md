@@ -57,7 +57,7 @@ https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/157a2d93-
 <img src="https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/67d24246-a958-4316-8182-b9623a7ecf8f" width="500"></img>
 
 <br>
-
+<!--
 ## Project 03 : Bvh Viewer
-
+-->
 <br>
