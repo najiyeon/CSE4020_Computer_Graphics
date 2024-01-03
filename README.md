@@ -46,7 +46,7 @@
 
 <br>
 
-**vidoe capture of the animating hierarchical model**   
+**video capture of the animating hierarchical model**   
 
 https://github.com/najiyeon/CSE4020_Computer_Graphics/assets/113894257/157a2d93-3c7b-4e59-bdba-611d8b3ed7aa
 
